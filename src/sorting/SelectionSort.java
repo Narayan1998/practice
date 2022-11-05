@@ -2,6 +2,10 @@ package sorting;
 
 import java.util.Arrays;
 
+
+//time complexity O(n2)
+//oxilary space complexity O(1)
+
 public class SelectionSort {
     public static void main(String[] args) {
         int[] ar = {3, 6, 1, 4, 9, 12, 5};
